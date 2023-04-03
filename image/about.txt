@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Paytone One
+- Font Author: Copyright 2011 The Paytone Project Authors (https://github.com/googlefonts/paytoneFont)
+- Font Source: http://fonts.gstatic.com/s/paytoneone/v20/0nksC9P7MfYHj2oFtYm2CiTqivr9iBq_.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
